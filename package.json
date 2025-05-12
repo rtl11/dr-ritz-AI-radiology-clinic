@@ -1,0 +1,2 @@
+npm init react-app dr-ritz-radiology
+npm install react-router-dom tailwindcss
